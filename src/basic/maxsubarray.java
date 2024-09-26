@@ -1,3 +1,5 @@
+package basic;
+
 public class maxsubarray {
 
     public static void maxsubarraysum(int number[]) {

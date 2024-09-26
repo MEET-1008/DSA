@@ -1,6 +1,6 @@
-package string;
+package recursion;
 
-public class S_02_powerofcurrentstring {
+public class R_02_powerofcurrentstring {
 
     public static void poerofstring(String str, int i, String car) {
 

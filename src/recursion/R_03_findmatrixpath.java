@@ -1,4 +1,6 @@
-public class findmatrixpath {
+package recursion;
+
+public class R_03_findmatrixpath {
 
     public static int findpath(int n, int m) {
         if (n == 1 || m == 1) {

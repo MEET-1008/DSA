@@ -1,6 +1,6 @@
-package string;
+package recursion;
 
-public class S_01_paindrome {
+public class R_01_paindrome {
 
     public static boolean isPalindrome(String s , int l , int r) {
 

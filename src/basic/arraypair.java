@@ -1,3 +1,5 @@
+package basic;
+
 public class arraypair {
 
     public static void printPairs(int[] number) {
